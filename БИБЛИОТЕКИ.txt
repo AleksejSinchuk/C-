@@ -1,0 +1,16 @@
+#include<iostream>
+#include<cmath>
+#include<cstring>
+#include <windows.h>
+#include<ctime>
+#include<conio.h>
+#include<vector>
+#include<iomanip>
+using namespace std;
+
+
+setlocale(LC_ALL, "");
+	srand(time(NULL));
+
+
+system("pause");
